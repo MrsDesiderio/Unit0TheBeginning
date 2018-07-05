@@ -17,40 +17,9 @@ For the one idea your group chose to develop a **Rapid Prototype**:
   Please enter your response here.  Limit your response to one sentence using proper English Grammar.
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
   _2. Describe your computing innovation’s intended purpose and function._
-  
+    
   Please enter your response here.  Limit your response to a minimum of 25 words using proper English Grammar.
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
   
   _3. Explain at least one beneficial effect and at least one harmful effect your computing innovation has had, or has the potential to have, on society, economy, or culture.
