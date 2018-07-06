@@ -5,14 +5,12 @@
 [Anna's Story - video](https://youtu.be/VzuBJTtwm3o)
 
 
+[GitHub Guides](https://guides.github.com)
+
+
 [GitHub Education - join GitHub Classroom AND Github Education Community](https://education.github.com/teachers)
 
 
-GitHub Guides
-[https://guides.github.com]
-
-
-Help on all things GitHub
-[https://help.github.com]
+[Help on all things GitHub]([https://help.github.com)
 
 
