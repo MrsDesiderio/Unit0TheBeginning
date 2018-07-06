@@ -10,12 +10,12 @@ Click here for today's [Presentation](https://docs.google.com/presentation/d/1A8
 For the one idea your group chose to develop a **Rapid Prototype**:
 
 
-  _1.  Name or indentify the computing innovation that your group selected to develop your **Rapid Prototype** _
+  _1.  Name or indentify the computing innovation that your group selected to develop your **Rapid Prototype**_
   
   Please enter your response here.  Limit your response to one sentence using proper English Grammar.
   
   
-  _2. Describe your computing innovation’s intended purpose and function. _
+  _2. Describe your computing innovation’s intended purpose and function._
     
   Please enter your response here.  Limit your response to a minimum of one paragraph containing a few swntences using proper English Grammar.
   
@@ -25,15 +25,15 @@ For the one idea your group chose to develop a **Rapid Prototype**:
   Please enter your response here.  Limit your response to a minimum of one paragraph containing a few swntences using proper English Grammar.
   
   
-  _4. Watch the following brief video [Computer Science is Changing Everything](https://www.youtube.com/watch?v=QvyTEx1wyOY). _
+  _4. Watch the following brief video [Computer Science is Changing Everything](https://www.youtube.com/watch?v=QvyTEx1wyOY)._
   
   
-  _5.  Name or indentify ONE computing innovation from the video that stood out or connected with you. _
+  _5.  Name or indentify ONE computing innovation from the video that stood out or connected with you._
   
   Please enter your response here.  Limit your response to one sentence using proper English Grammar.
   
   
-  _6. Describe this computing innovation"s (selected in number 4 above) intended purpose and function. _
+  _6. Describe this computing innovation"s (selected in number 4 above) intended purpose and function._
     
   Please enter your response here.  Limit your response to a minimum of one paragraph containing a few swntences using proper English Grammar.
   
