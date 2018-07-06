@@ -8,11 +8,11 @@ Now onto the project ...
 
 Welcome to Github.
 
-In essence, what you have here is my Day one assignment with links to my Google Presentation for Day 1.
+In essence, what you have here is my Day 1 assignment with links to my Google Presentation for Day 1.
 
 The purpose of this little demonstration is to assist me with my overall classroom workflow / assignment distribution and collection / student communication and feedback / and file management process.
 
-My experience with GitHub is still in the infanccy stage, however, it is my goal to eventually use GitHub as my primary platform for these purposes.  Once you start exploring as I have you may agree ... GitHub is an industry and educational winner!!!
+My experience with GitHub is still in the infancy stage, however, it is my goal to eventually use GitHub as my primary platform for these purposes.  Once you start exploring as I have you may agree ... GitHub is an industry and educational winner!!!
 
 I also suggest you view the **Issues** and **Project** tabs.  I am very new to this, however, it looks like a great way to enhance the workflow management. 
 
