@@ -33,7 +33,7 @@ For the one idea your group chose to develop a **Rapid Prototype**:
   Please enter your response here.  Limit your response to one sentence using proper English Grammar.
   
   
-  _6. Describe this computing innovation"s (selected in number 4 above) intended purpose and function._
+  _6. Describe this computing innovation"s (selected in number 5 above) intended purpose and function._
     
   Please enter your response here.  Limit your response to a minimum of one paragraph containing a few sentences using proper English Grammar.
   
