@@ -14,6 +14,8 @@
 
 [Examples of how teachers use GitHub in classroon - video](https://www.youtube.com/watch?v=dJjrhymbKc0)
 
+[It's not just for code! Git and GitHub as a platform for Open Education - video](https://www.youtube.com/watch?v=yb9Svh1ETlc)
+
 
 [Help on all things GitHub](https://help.github.com)
 
