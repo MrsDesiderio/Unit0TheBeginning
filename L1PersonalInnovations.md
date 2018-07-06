@@ -2,9 +2,7 @@ _What could you teach somebody?_
 
 **Identify impacts and prototype an innovation - Brainstorm Technological Innovation**
 
-Below is the link to today's presentation as a reminder of the path we took:
-
-[https://docs.google.com/presentation/d/1Idd3quhoEgilNmFcD9RZHpVlv8F5BsA61iWH0btmjEQ/edit?usp=sharing]
+Click here for today's [Presentation](https://docs.google.com/presentation/d/1A8FRaFOq5lVmfnW5z_ZTMlnfPefO79N8Tppl8wqvyHA/edit?usp=sharing) as a reminder of the path we took.
 
 
 **  YOUR ASSIGNMENT **
