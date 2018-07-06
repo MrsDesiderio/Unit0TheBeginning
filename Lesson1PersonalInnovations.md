@@ -10,19 +10,22 @@ Click here for today's [Presentation](https://docs.google.com/presentation/d/1A8
 For the one idea your group chose to develop a **Rapid Prototype**:
 
 
-  *1.  Name or indentify the computing innovation that your group selected to develop your **Rapid Prototype** *
+  _1.  Name or indentify the computing innovation that your group selected to develop your **Rapid Prototype** _
   
   Please enter your response here.  Limit your response to one sentence using proper English Grammar.
   
   
-  *2. Describe your computing innovation’s intended purpose and function.*
+  _2. Describe your computing innovation’s intended purpose and function._
     
   Please enter your response here.  Limit your response to a minimum of 25 words using proper English Grammar.
   
   
-  *3. Explain at least one beneficial effect and at least one harmful effect your computing innovation has had, or has the potential to have, on society, economy, or culture.*
+  _3. Explain at least one beneficial effect and at least one harmful effect your computing innovation has had, or has the potential to have, on society, economy, or culture._
   
   Please enter your response here.  Limit your response to a minimum of 25 words using proper English Grammar.
+  
+  
+  _4. Watch the following brief video Explain at least one beneficial effect and at least one harmful effect your computing innovation has had, or has the potential to have, on society, economy, or culture._
   
   
 
