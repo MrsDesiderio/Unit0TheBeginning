@@ -1,12 +1,11 @@
-[What exactly is git and GitHub?](https://youtu.be/w3jLJU7DT5E)
+[What exactly is git and GitHub? - video](https://youtu.be/w3jLJU7DT5E)
 
-[GitHub ... How software (or anything) is developed!](https://youtu.be/afvT1c1ii0c)
+[GitHub ... How software (or anything) is developed! - video](https://youtu.be/afvT1c1ii0c)
 
-[Anna's Story](https://youtu.be/VzuBJTtwm3o)
+[Anna's Story - video](https://youtu.be/VzuBJTtwm3o)
 
 
-GitHub Education - join GitHub Classroom AND Github Education Community
-[https://education.github.com/teachers]
+[GitHub Education - join GitHub Classroom AND Github Education Community](https://education.github.com/teachers)
 
 
 GitHub Guides
