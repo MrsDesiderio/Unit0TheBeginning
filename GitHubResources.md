@@ -11,6 +11,6 @@
 [GitHub Education - join GitHub Classroom AND Github Education Community](https://education.github.com/teachers)
 
 
-[Help on all things GitHub]([https://help.github.com)
+[Help on all things GitHub](https://help.github.com)
 
 
