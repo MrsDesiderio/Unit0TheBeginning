@@ -17,12 +17,12 @@ For the one idea your group chose to develop a **Rapid Prototype**:
   
   _2. Describe your computing innovation’s intended purpose and function._
     
-  Please enter your response here.  Limit your response to a minimum of one paragraph containing a few swntences using proper English Grammar.
+  Please enter your response here.  Limit your response to a minimum of one paragraph containing a few sentences using proper English Grammar.
   
   
   _3. Explain at least one beneficial effect and at least one harmful effect your computing innovation has had, or has the potential to have, on society, economy, or culture._
   
-  Please enter your response here.  Limit your response to a minimum of one paragraph containing a few swntences using proper English Grammar.
+  Please enter your response here.  Limit your response to a minimum of one paragraph containing a few sentences using proper English Grammar.
   
   
   _4. Watch the following brief video [Computer Science is Changing Everything](https://www.youtube.com/watch?v=QvyTEx1wyOY)._
@@ -35,7 +35,7 @@ For the one idea your group chose to develop a **Rapid Prototype**:
   
   _6. Describe this computing innovation"s (selected in number 4 above) intended purpose and function._
     
-  Please enter your response here.  Limit your response to a minimum of one paragraph containing a few swntences using proper English Grammar.
+  Please enter your response here.  Limit your response to a minimum of one paragraph containing a few sentences using proper English Grammar.
   
   
   
